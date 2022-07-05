@@ -12,6 +12,7 @@ h1{
 }
 section{
     display:flex;
+    margin-bottom:150px;
 }
 .hadding{
     width:50%;
@@ -26,9 +27,15 @@ section{
     padding: 10px 40px;
     font-weight: 700;
     border-radius: 5px;
+    color:white;
 }
 #bannarsImg{
     background:url(images/top-banner.png);
     background-repeat:no-repeat;
     background-size:cover;
+}
+#dreamBig{
+    background:url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position:right;
 }
